@@ -18,13 +18,16 @@ Este directorio tiene documentos anexos al proyecto donde se explican decisiones
 
 -DiscLib
 Este directorio contiene todo el código de base que se entrega para el funcionamiento del curso.  Dentro de este directorio encuentran:
-    
-    |-- ADT:  Directorio con los Tipos Abstractos de Datos del curso
 
-    |--DataStructures: Directorio con todas las estructuras de datos y archivos auxiliares para su     correcto funcionamiento
+```
+|-- ADT:  Directorio con los Tipos Abstractos de Datos del curso
 
-    |--Algorithms: Implementación de los algoritmos vistos en el curso (por ejemplo algoritmos de ordenamiento)
+|--DataStructures: Directorio con todas las estructuras de datos y archivos auxiliares para su     correcto funcionamiento
 
-    |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
+|--Algorithms: Implementación de los algoritmos vistos en el curso (por ejemplo algoritmos de ordenamiento)
 
+|-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
+```
 
+Req :Juan Camilo Nieves j.nievesh@uniandes.edu.co 202116708
+Req :Gabriel Dicelis g.dicelis@uniandes.edu.co 201920847
